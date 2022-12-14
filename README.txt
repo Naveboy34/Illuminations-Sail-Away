@@ -1,6 +1,5 @@
-Hey! This is literally just the source code and music for my lightshow, if you'd like to see it yourself here's a few links that should be useful:
-Illuminations download:
-Illuminations extra information:
+Hey! This is literally just the source code and music for my lightshow, if you'd like to see it yourself here's some information that should be useful:
+Illuminations download and extra info: https://illuminations.mit.edu/
 
 If you're trying to load it yourself, here's a few things to note:
 1. Make sure you update the song file location with wherever it is on your device
